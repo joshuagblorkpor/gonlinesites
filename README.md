@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baronGH
+- 👋 Hi, I’m @joshuagblorkpor
 - 👀 I’m interested in Web Development (PHP) and Discovering more
 - 🌱 I’m currently learning to expand my knowledge in Coding
 - 💞️ I’m looking to collaborate on real-life projects
