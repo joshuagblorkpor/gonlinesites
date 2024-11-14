@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development (PHP) and Discovering more
 - 🌱 I’m currently learning to expand my knowledge in Coding
 - 💞️ I’m looking to collaborate on real-life projects
-- 📫 How to reach me https://GitHub.com/baronGH
+- 📫 How to reach me https://GitHub.com/joshuagblorkpor
 
 <!---
 baronGH/baronGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
